@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MapMakerZ/1.0.0": {
+        "runtime": {
+          "MapMakerZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MapMakerZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
